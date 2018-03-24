@@ -1,0 +1,7 @@
+{
+    "name": "abigail/application",
+    "type": "project",
+    "require": {
+        "nexmo/client": "^1.3"
+    }
+}
